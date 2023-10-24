@@ -29,6 +29,6 @@ The data points were then plotted on the principle component axes and each point
 
 ![country](images/country.png)
 
-The data was replotted with the data coloured by continent and we get a clearer picture of what is going on in our data (se below). Three distinct clusters can be seen corresponding to patients from Africa, Europe and Asia. There is another more diffuse cluster of points which relates to patients from America. This analysis shows that we can cluster patients by their geogrpahic location based on PCA analysis of their SNP profiles
+The data was replotted with the data coloured by continent and we get a clearer picture of what is going on in our data (se below). Three distinct clusters can be seen corresponding to patients from Africa, Europe and Asia. There is another more diffuse cluster of points which relates to patients from America. This analysis shows that we can cluster patients by their geographic location based on PCA analysis of their SNP profiles
 
 ![continent](images/continent.png)
